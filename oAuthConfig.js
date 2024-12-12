@@ -1,6 +1,6 @@
 const authConfig = {
     auth: {
-        clientId: 'ENTER_CLIENT_ID',
+        clientId: '6ce260da-0be6-4452-a94a-0db72b9158ea', // Admin.ServiceHealth
         authority: 'https://login.microsoftonline.com/6e4ce203-3bc4-4838-9d68-d1c438b7ecc2'
     }
 };
