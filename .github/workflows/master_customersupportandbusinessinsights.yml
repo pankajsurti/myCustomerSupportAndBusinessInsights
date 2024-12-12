@@ -66,6 +66,6 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'customerSupportAndBusinessInsights'
-          slot-name: 'Production'
+          # slot-name: 'Production'
           package: .
           
